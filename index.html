@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#8A2BE2">
+    <title>Minha Carta de Amor ❤️</title>
+    <!-- Fontes -->
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+    <!-- Ícones -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Animações -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Tela de Loading -->
+    <div class="loading-screen">
+        <div class="heart-container">
+            <div class="heart-loader"></div>
+        </div>
+        <p class="loading-text">Carregando sua surpresa especial...</p>
+    </div>
+
+    <!-- Container Principal -->
+    <div class="main-container hidden">
+        <!-- Presente -->
+        <section class="gift-section" id="giftSection">
+            <div class="gift-wrapper">
+                <div class="gift" id="gift">
+                    <div class="gift-top">
+                        <div class="ribbon"></div>
+                    </div>
+                    <div class="gift-box"></div>
+                </div>
+                <div class="gift-instruction">
+                    <span class="pulse-icon">
+                        <i class="fas fa-gift"></i>
+                    </span>
+                    <p>Toque para abrir seu presente especial</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Carta -->
+        <section class="letter-section hidden" id="letterSection">
+            <div class="letter-container" data-aos="fade-up">
+                <!-- Cabeçalho da Carta -->
+                <div class="letter-header">
+                    <div class="header-decoration">
+                        <i class="fas fa-heart"></i>
+                    </div>
+                    <h1>Para o Amor da Minha Vida</h1>
+                    <div class="date">30 de Março de 2025</div>
+                </div>
+
+                <!-- Conteúdo da Carta -->
+                <div class="letter-content">
+                    <div class="letter-text">
+                        <div id="typedText"></div>
+                    </div>
+                </div>
+
+                <!-- Assinatura -->
+                <div class="letter-footer">
+                    <div class="signature-container">
+                        <p class="love-text">Com todo meu amor,</p>
+                        <p class="signature">Carlos Eduardo</p>
+                    </div>
+                    <div class="footer-decoration">
+                        <i class="fas fa-heart"></i>
+                        <i class="fas fa-heart"></i>
+                        <i class="fas fa-heart"></i>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Controle de Música -->
+        <div class="music-control">
+            <button id="toggleMusic" class="music-button" aria-label="Tocar música">
+                <i class="fas fa-music"></i>
+            </button>
+            <div class="music-tooltip">Nossa Música ❤️</div>
+            <audio id="backgroundMusic" loop>
+                <source src="nossa-musica.mp3" type="audio/mp3">
+            </audio>
+        </div>
+
+        <!-- Container de Corações Flutuantes -->
+        <div class="floating-hearts-container"></div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
