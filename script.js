@@ -16,17 +16,17 @@ document.addEventListener('DOMContentLoaded', () => {
     // Texto da carta - sua mensagem romântica
     const loveMessage = `Meu amor mais precioso,
 
-    Hoje, enquanto escrevo esta carta, meu coração transborda de amor e gratidão por ter você em minha vida. Cada momento ao seu lado é como uma página de um conto de fadas que se torna realidade.
+    Hoje é um dia tão especial, tão lindo, porque foi nesse dia que o mundo recebeu um presente precioso: você. Meu amor, feliz aniversário! Que alegria é poder estar ao seu lado, celebrando mais um ano da sua vida, da sua história, da sua luz que ilumina tudo ao seu redor.
 
-    Você é a primeira pessoa em quem penso quando acordo e a última antes de dormir. Seu sorriso ilumina meus dias mais escuros, e seu amor me dá forças para enfrentar qualquer desafio.
+Nesses 19 anos, você tem sido uma inspiração. Sua força, sua bondade, seu coração gigante são coisas que me encantam mais a cada dia. Eu sou tão grato por ter você na minha vida, por poder testemunhar o seu brilho, por poder ver de perto o quão incrível você é. Cada sorriso seu ilumina meu dia, cada palavra sua me aquece e me faz sentir que estou no lugar certo, ao lado da pessoa mais especial do mundo.
 
-    Sabe o que mais amo em você? A forma como seus olhos brilham quando está feliz, como sua risada enche o ambiente de alegria, e como seu abraço tem o poder de fazer todos os problemas desaparecerem.
+Eu me lembro de tantas coisas que me fazem amar você ainda mais. O jeito que seus olhos brilham quando você fala sobre algo que ama, a forma como sua risada é contagiante e como sua presença transforma qualquer dia comum em algo extraordinário. Eu amo o som da sua voz, a maneira como você me faz sentir seguro, como se nada pudesse me atingir enquanto estivermos juntos. Você é o meu porto seguro, minha paz, minha felicidade.
 
-    Você não é apenas minha namorada, é minha melhor amiga, minha confidente, minha parceira de aventuras e sonhos. Com você, aprendi o verdadeiro significado do amor - aquele que é paciente, gentil, que compreende, que perdoa, que cresce a cada dia.
+Meu amor, se eu pudesse, pegaria todas as estrelas do céu e colocaria em um potinho só para você, porque você merece tudo de mais bonito nesse mundo. Mas como não posso, eu prometo continuar te amando, te apoiando, te admirando e te lembrando todos os dias do quão maravilhosa você é. Eu prometo segurar sua mão nos dias difíceis e celebrar com você todas as suas conquistas. Eu quero estar ao seu lado, nos dias bons e ruins, compartilhando cada momento, construindo uma história linda com você.
 
-    Quero construir um futuro ao seu lado, compartilhar milhares de momentos especiais, criar memórias inesquecíveis e envelhecer junto com você. Porque não há lugar no mundo em que eu me sinta mais em casa do que ao seu lado.
+Neste seu dia, desejo que cada momento seja repleto de felicidade, que você se sinta amada, especial e rodeada de boas energias. Que seus sonhos se tornem realidade, que seus passos sejam leves e que sua caminhada seja cheia de conquistas. Eu estarei sempre aqui, torcendo por você, segurando sua mão, te dando meu amor. Quero que você saiba que você nunca estará sozinha, porque meu amor por você é infinito e inabalável.
 
-    Você é meu presente mais precioso, meu amor mais puro, minha felicidade mais verdadeira. 
+Você é meu motivo de sorrisos, minha melhor companhia, minha maior felicidade. Obrigado por ser exatamente como é. Obrigado por me permitir fazer parte da sua vida e da sua história. Eu te amo, minha princesa. Feliz 19 anos! Que seja um ciclo maravilhoso para você, cheio de amor, sucesso e momentos inesquecíveis.
 
     Te amo mais que tudo nessa vida! ❤️`;
 
